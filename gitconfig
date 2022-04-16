@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = matthieu.sp@gmail.com
+	name = Matthieu Seaux-Peters
